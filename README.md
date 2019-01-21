@@ -36,7 +36,7 @@ curl "https://raw.githubusercontent.com/Anupya/advice-cli/master/advice" -o /usr
 
 ## Usage
 
-You are all set! Enter this in your terminal to receive a new dad joke :)
+You are all set! Enter this in your terminal to receive advice :)
 
 ```
 advice
